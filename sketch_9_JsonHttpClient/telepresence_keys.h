@@ -1,0 +1,2 @@
+#define SECRET_SSID "Area 51"
+#define SECRET_PASS "19910129"
